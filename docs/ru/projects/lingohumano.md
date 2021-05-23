@@ -13,10 +13,10 @@
 
 Плановый язык, разработка которого ведётся сообществом. Строится на основе английского языка, с упрощённой и однозначной грамматикой. Литературный глоблиш.
 
-- [Идеи для проекта](ru/3.1-lingohumano/lingohumano-ideas.md)
-- [Схемы и карты](ru/3.1-lingohumano/lingohumano-map.drawio ":ignore")
-- [0.1 (описание версии)](ru/3.1-lingohumano/lingohumano-v0.1.md)
-- [1.0 (описание версии)](ru/3.1-lingohumano/lingohumano-v1.0.md)
+- [Идеи для проекта](ru/projects/lingohumano-ideas.md)
+- [Схемы и карты](ru/projects/lingohumano-map.drawio ":ignore")
+- [0.1 (описание версии)](ru/projects/lingohumano-v0.1.md)
+- [1.0 (описание версии)](ru/projects/lingohumano-v1.0.md)
 
 **Кураторы проекта**
 

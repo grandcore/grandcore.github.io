@@ -11,12 +11,12 @@
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A0)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/F9bwPh_8usijiQDt)
 
-Экспериментальный дистрибутив Linux основанный на Arch, нацеленный на интеграцию социальных функций и кастомизацию.
+Экспериментальный дистрибутив Linux с интегрированными социальными функциями для обмена твиками и конфигами.
 
-- [Идеи для проекта](ru/3.4-gcos/gcos-ideas.md)
-- [Схемы и карты](ru/3.4-gcos/gcos-map.drawio ":ignore")
-- [0.1 (описание версии)](ru/3.4-gcos/gcos-v0.1.md)
-- [1.0 (описание версии)](ru/3.4-gcos/gcos-v1.0.md)
+- [Идеи для проекта](ru/projects/gcos-ideas.md)
+- [Схемы и карты](ru/projects/gcos-map.drawio ":ignore")
+- [0.1 (описание версии)](ru/projects/gcos-v0.1.md)
+- [1.0 (описание версии)](ru/projects/gcos-v1.0.md)
 
 **Кураторы проекта**
 

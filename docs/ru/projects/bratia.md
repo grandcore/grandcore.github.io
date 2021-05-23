@@ -13,10 +13,10 @@
 
 Движок для виртуальных государств. Создания автономных социальных платформ свободных от внешней цензуры имеющих все необходимые социальные функции.
 
-- [Идеи для проекта](ru/3.2-bratia/bratia-ideas.md)
-- [Схемы и карты](ru/3.2-bratia/bratia-map.drawio ":ignore")
-- [0.1 (описание версии)](ru/3.2-bratia/bratia-v0.1.md)
-- [1.0 (описание версии)](ru/3.2-bratia/bratia-v1.0.md)
+- [Идеи для проекта](ru/projects/bratia-ideas.md)
+- [Схемы и карты](ru/projects/bratia-map.drawio ":ignore")
+- [0.1 (описание версии)](ru/projects/bratia-v0.1.md)
+- [1.0 (описание версии)](ru/projects/bratia-v1.0.md)
 
 **Кураторы проекта**
 
