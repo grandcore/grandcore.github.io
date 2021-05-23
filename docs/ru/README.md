@@ -10,7 +10,7 @@
 
 <iframe width="560" height="460" src="https://www.youtube.com/embed/hKXWZ6lEw4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Подробнее фонде
+## Подробнее о фонде
 
 - [Манифест фонда](ru/manifest.md)
 - [Концепция deG](ru/deg.md)
