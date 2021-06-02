@@ -7,12 +7,15 @@
 
 !> Данный проект является перспективным. Если у вас есть желание участвовать, пишите в рабочий чат.
 
+<!---
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/egitor)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A2)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/GwwWCrrAtdbNROqG)
+-->
 
 Персональный проджект-комбайн, помогающий выстроить процесс от потребления, обработки и накопления информации до реализации конечного творческого продукта на её основе (например, статьи, книги итд).
 
+<!---
 - [Идеи для проекта](ru/projects/egitor-ideas.md)
 - [Схемы и карты](ru/projects/egitor-map.drawio ":ignore")
 - [0.1 (описание версии)](ru/projects/egitor-v0.1.md)
@@ -25,3 +28,5 @@
 ## Цель проекта
 
 ## Краткое описание
+
+-->

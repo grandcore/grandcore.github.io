@@ -7,12 +7,15 @@
 
 !> Данный проект является перспективным. Если у вас есть желание участвовать, пишите в рабочий чат.
 
+<!---
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/gcos)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A0)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/F9bwPh_8usijiQDt)
+-->
 
 Экспериментальный дистрибутив Linux с интегрированными социальными функциями для обмена твиками и конфигами.
 
+<!---
 - [Идеи для проекта](ru/projects/gcos-ideas.md)
 - [Схемы и карты](ru/projects/gcos-map.drawio ":ignore")
 - [0.1 (описание версии)](ru/projects/gcos-v0.1.md)
@@ -25,3 +28,5 @@
 ## Цель проекта
 
 ## Краткое описание
+
+-->
