@@ -5,7 +5,8 @@
 </div>
 </div>
 
-!> Данный проект является перспективным. Если у вас есть желание участвовать, пишите в рабочий чат.
+!> Данный проект является перспективным. Над ним не ведётся активная работа. Пишите основателю фонда, если у вас есть вопросы или предложения - t.me/grandcore
+
 <!---
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/bratia)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=8207%3A21160)
