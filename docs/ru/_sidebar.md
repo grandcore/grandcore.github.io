@@ -1,8 +1,8 @@
 ![logo](https://grandcore.org/_media/site-logo-nav.png ":size=200")
 
 - [Самое главное](ru/)
-- [Подробнее о фонде](ru/manifest.md)
-- [Стек и соглашения](ru/stroyka.md)
+- [Философия фонда](ru/manifest.md)
+- [Стек и соглашения](ru/techstack.md)
 - [Дорожная карта](ru/roadmap.md)
 
 - [Проект OpenSchool](ru/projects/openschool.md)
