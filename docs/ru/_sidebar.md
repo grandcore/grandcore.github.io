@@ -1,7 +1,7 @@
 ![logo](https://grandcore.org/_media/site-logo-nav.png ":size=200")
 
 - [Самое главное](ru/)
-- [Философия фонда](ru/manifest.md)
+- [Философия фонда](ru/about.md)
 - [Стек и соглашения](ru/techstack.md)
 - [Дорожная карта](ru/roadmap.md)
   &nbsp;
