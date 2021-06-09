@@ -2,8 +2,9 @@
 
 **Текущие планы по развитию проекта:**
 
-- Завершить проектирование экранов в [Figma](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/Share?node-id=1%3A571) для [OpenSchool](ru/projects/openschool.md)
-- Сделать MVP для [OpenSchool](ru/projects/openschool.md)
-- Сделать MVP для [EDem](ru/projects/edem.md)
-- Начать разработку [платформы GrandCore](ru/projects/grandcore.md).
-- Неизвестность...
+- Завершить [систематизацию](https://www.figma.com/file/F1GGndBtJQ0L18BJcDqByP/Map-OpenScool?node-id=0%3A1) брейнштормов
+- Доделать [экраны](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/Share) первой итерации
+- Собрать экраны платформы
+- Сверстать прототипы
+- Сделать перевод прототипов на английский, испанский и португальский языки
+- Начать собирать донаты и искать гранты на дальнейшую разработку
