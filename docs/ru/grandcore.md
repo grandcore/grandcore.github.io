@@ -7,13 +7,6 @@
 
 !> Данный проект является перспективным. Над ним не ведётся активная работа. Пишите основателю фонда, если у вас есть вопросы или предложения - [t.me/grandcore](https://t.me/grandcore)
 
-<!---
-?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/grandcore)
-<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=8206%3A796)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/XqqBCBdggbA2MTUx)
--->
-
-
 Платформа нашего фонда с инструментами для обсуждения, проектирования и сбора средств на реализацию проектов, контроля разработки, поддержки пользователей и предоставления площадки для иной деятельности сообщества.
 
 <!---
