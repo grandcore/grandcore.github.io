@@ -9,5 +9,5 @@
 - [Проект EDem](ru/projects/edem.md)
 - [Перспективные проекты](ru/projects-plans.md)
 
-- [Присоедениться к нам](ru/comanda.md)
+- [Присоединиться к нам](ru/comanda.md)
 - [Стать спонсором](ru/donat.md)
