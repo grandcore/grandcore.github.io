@@ -5,9 +5,13 @@
 - [Стек и соглашения](ru/techstack.md)
 - [Дорожная карта](ru/roadmap.md)
 
+---
+
 - [Проект OpenSchool](ru/openschool.md)
 - [Проект EDem](ru/edem.md)
-- [Платформа фонда](ru/grandcore.md)
--
+- [Проект платформы фонда](ru/grandcore.md)
+
+---
+
 - [Присоединиться к нам](ru/comanda.md)
 - [Стать спонсором](ru/donat.md)
