@@ -10,13 +10,11 @@
 
 <iframe width="560" height="460" src="https://www.youtube.com/embed/hKXWZ6lEw4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Подробнее о фонде
+## Читайте далее
 
-- [Манифест фонда](ru/manifest.md)
-- [Концепция deG](ru/deg.md)
-- [Концепция web21](ru/web21.md)
-- [Надфреймворк Stroyka](ru/stroyka.md)
-- [RoadMap](ru/roadmap.md)
+- [Подробнее о философии фонда](ru/about.md)
+- [Стек и соглашения](ru/techstack.md)
+- [Дорожная карта](ru/roadmap.md)
 
 ## Давайте вместе менять мир!
 
