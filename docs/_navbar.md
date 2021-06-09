@@ -1,3 +1,0 @@
-- [Ru](/ru/)
-- [Es](es.md)
-- [En](en.md)
