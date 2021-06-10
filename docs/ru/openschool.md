@@ -15,7 +15,7 @@
 
 - [Карта проекта](https://www.figma.com/file/F1GGndBtJQ0L18BJcDqByP/Map-OpenScool?node-id=0%3A1) (проектирование платформы)
 - [EDem](ru/edem.md) (движок совместной работы, разрабатывается параллельно)
-- [t.me/grandcore](https://t.me/grandcore) (пишите по любым вопросам)
+- [t.me/grandcore](https://t.me/grandcore) (пишите основателю)
 
 
 ## Описание первой итерации
