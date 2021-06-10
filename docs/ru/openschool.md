@@ -17,8 +17,8 @@
 - [EDem](ru/edem.md) (движок совместной работы, разрабатывается параллельно)
 - [t.me/grandcore](https://t.me/grandcore) (пишите основателю)
 
-- t.me/joinchat/2JC3zklOvggxN2Jh (доп. чат для дизайнеров)
-- t.me/joinchat/CdXoy9PeAjI2NTJh (доп. чат для разработчиков)
+- [t.me/joinchat/2JC3zklOvggxN2Jh](https://t.me/joinchat/2JC3zklOvggxN2Jh) (доп. чат для дизайнеров)
+- [t.me/joinchat/CdXoy9PeAjI2NTJh](https://t.me/joinchat/CdXoy9PeAjI2NTJh) (доп. чат для разработчиков)
 
 ## Описание первой итерации
 
