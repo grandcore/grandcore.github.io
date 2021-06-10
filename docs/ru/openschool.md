@@ -9,7 +9,7 @@
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/openschool")
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/Share?node-id=1%3A573)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/openschool_chat)
+<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**рабочий чат**](https://t.me/openschool_chat)
 
 ## Другие ссылки
 
@@ -17,6 +17,8 @@
 - [EDem](ru/edem.md) (движок совместной работы, разрабатывается параллельно)
 - [t.me/grandcore](https://t.me/grandcore) (пишите основателю)
 
+- t.me/joinchat/2JC3zklOvggxN2Jh (доп. чат для дизайнеров)
+- t.me/joinchat/CdXoy9PeAjI2NTJh (доп. чат для разработчиков)
 
 ## Описание первой итерации
 
