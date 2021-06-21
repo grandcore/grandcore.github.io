@@ -9,7 +9,7 @@
 **OpenSchool - бесплатная и открытая образовательная платформа, которая ставит своей целью быть центральным инструментом в процессе обучения на любые темы.** 
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/openschool")
-<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/Share?node-id=1%3A573)
+<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/Share)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**рабочий чат**](https://t.me/openschool_chat)
 
 Курсы состоят из трёх взаимосвязанных между собой разделов: темы и вопросы для повторения, набор рекомендованных внешних материалов и практические задания. 
