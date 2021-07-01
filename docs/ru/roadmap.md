@@ -4,4 +4,4 @@
 
 - Завершить разработку MVP для образовательной платформы [OpenSchool](ru/openschool.md).
 - Сделать MVP системы совместного управления проектами  [EDem](ru/edem.md), внедрить её в OpenSchool. 
-- Начать разработку [платформы фонда](ru/grandcore.md) GrandCore.
+- Начать разработку [платформы фонда GrandCore](ru/grandcore.md).
