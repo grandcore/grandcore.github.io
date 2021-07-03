@@ -5,6 +5,8 @@
 </div>
 </div>
 
+!> Документ находится в разработке. Если у вас есть вопросы или предложения, пишите - [@grandcore](https://t.me/grandcore).
+
 **OpenSchool - бесплатная и открытая образовательная платформа, которая ставит своей целью быть центральным инструментом в процессе обучения на любые темы.** 
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/openschool")

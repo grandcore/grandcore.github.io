@@ -5,6 +5,8 @@
 </div>
 </div>
 
+!> Документ находится в разработке. Если у вас есть вопросы или предложения, пишите - [@grandcore](https://t.me/grandcore).
+
 <!---
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/edem)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A1)
