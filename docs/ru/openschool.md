@@ -12,7 +12,7 @@
 - <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/openschool")
 - <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/)
 - <span style="vertical-align: -12px">![trello-ui-ux](../../_media/icon-trello.png ":size=32")</span> [**Обсуждение UI/UX**](https://trello.com/b/m0fgEYeC/openschool-ui-ux)
-- <span style="vertical-align: -12px">![trello-dev](../../_media/icon-trello.png ":size=32")</span> [**Обсуждение Архитектуры**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/)
+- <span style="vertical-align: -12px">![trello-dev](../../_media/icon-trello.png ":size=32")</span> [**Обсуждение Архитектуры**](https://trello.com/b/POeLUekC/openschool-dev)
 - <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат Проекта**](https://t.me/openschool_chat)
 
 Курсы состоят из трёх взаимосвязанных между собой разделов: темы и вопросы для повторения, набор рекомендованных внешних материалов и практические задания.
