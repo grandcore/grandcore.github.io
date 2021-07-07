@@ -10,4 +10,4 @@
 - [Проект платформы фонда](ru/grandcore.md)
   &nbsp;
 - [Присоединиться к нам](ru/comanda.md)
-- [Стать спонсором](ru/donat.md)
+- [Стать спонсором](https://boosty.to/grandcore)
