@@ -6,24 +6,27 @@
 <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Чат**](https://t.me/grandcore_chat) <span style="vertical-align: -12px">![youtube](../_media/icon-youtube.png ":size=32")</span> [**YouTube-Канал**](https://www.youtube.com/c/GrandCore/)
 <span style="vertical-align: -12px">![github](../_media/icon-github.png ":size=32")</span> [**GitHub-Репозиторий**](https://github.com/grandcore/)
 
-## Маленькая презентация
+## С чего начать?
 
-<iframe width="560" height="460" src="https://www.youtube.com/embed/hKXWZ6lEw4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Почитайте](ru/about.md) подробнее о философии нашего сообщества;
+- [Ознакомьтесь](ru/openschool.md) с нашим текущим проектом OpenSchool;
+- [Пожертвуйте](https://boosty.to/grandcore) посильную сумму на продвижение проекта;
+- [Присоединитесь](ru/comanda.md) к нашей команде и станьте сооснователем проекта.
 
-## Читайте далее
+## RoadMap
 
-- [Подробнее о философии фонда](ru/about.md)
-- [Стек и соглашения](ru/techstack.md)
-- [Дорожная карта](ru/roadmap.md)
+_Текущие планы по развитию фонда._
 
-## Текущие проекты
+- Завершить разработку MVP для образовательной платформы [OpenSchool](ru/openschool.md).
+- Сделать MVP системы совместного управления проектами [EDem](ru/edem.md), внедрить её в OpenSchool.
+- Начать разработку [платформы фонда GrandCore](ru/grandcore.md).
 
-- [OpenSchool](ru/openschool.md) - свободная образовательная платформа
-- [EDem](ru/edem.md) - система коллективного управления проектами
+## Наш стек
 
-  _После реализации которых мы начнём разрабатывать [платформу нашего фонда](ru/grandcore.md)_
+- Express.js
+- Vue.js (Nuxt.js)
+- Tailwind.css
 
-## Стать причастным
+Обсуждается...
 
-- [Пожертвуйте](https://boosty.to/grandcore) посильную сумму на продвижение
-- [Станьте](ru/comanda.md) членом нашей команды
+!> По любым вопросам [пишите основателю](https://t.me/grandcore).

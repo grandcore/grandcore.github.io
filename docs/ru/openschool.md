@@ -5,15 +5,17 @@
 </div>
 </div>
 
-!> Документ находится в разработке. Если у вас есть вопросы или предложения, пишите - [@grandcore](https://t.me/grandcore).
+!> Документ находится в активной разработке. Если у Вас есть вопросы или предложения, пишите - [@grandcore](https://t.me/grandcore).
 
-**OpenSchool - бесплатная и открытая образовательная платформа, которая ставит своей целью быть центральным инструментом в процессе обучения на любые темы.** 
+**OpenSchool - бесплатная и открытая образовательная платформа, которая ставит своей целью быть центральным инструментом в процессе обучения на любые темы.**
 
-?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/openschool")
-<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/Share)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**рабочий чат**](https://t.me/openschool_chat)
+?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png":size=32")</span> [**Код**](https://github.com/grandcore/openschool")
+<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png":size=32")</span> [**Экраны**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/)
+<span style="vertical-align: -12px">![trello-ui-ux](../../_media/icon-trello.png":size=32")</span> [**Обсуждение UI/UX**](https://trello.com/b/m0fgEYeC/openschool-ui-ux)
+<span style="vertical-align: -12px">![trello-dev](../../_media/icon-trello.png":size=32")</span> [**Обсуждение Архитектуры**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/)
+<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат Проекта**](https://t.me/openschool_chat)
 
-Курсы состоят из трёх взаимосвязанных между собой разделов: темы и вопросы для повторения, набор рекомендованных внешних материалов и практические задания. 
+Курсы состоят из трёх взаимосвязанных между собой разделов: темы и вопросы для повторения, набор рекомендованных внешних материалов и практические задания.
 
 Пользователь имеет возможность вести прогресс-менеджмент, указывая свой уровень понимания вопросов по темам (принцип Anki), отмечая внешние материалы и практические задания как уже изученные или изучаемые в данный момент.
 
@@ -21,9 +23,6 @@
 
 ## Дополнительная информация
 
-- [Описание и обсуждение UI/UX проекта](https://trello.com/b/m0fgEYeC)
-- [План развития](https://trello.com/c/JWd5Z0Ar/20-todo)
-
-- [Условия участия](ru/comanda.md) в проекте
+- [Условия вступления](ru/comanda.md) в команду
 - [t.me/joinchat/2JC3zklOvggxN2Jh](https://t.me/joinchat/2JC3zklOvggxN2Jh) (доп. чат по UI/UX)
 - [t.me/joinchat/CdXoy9PeAjI2NTJh](https://t.me/joinchat/CdXoy9PeAjI2NTJh) (доп. чат разработчиков)

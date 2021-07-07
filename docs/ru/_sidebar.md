@@ -2,8 +2,6 @@
 
 - [Самое главное](ru/)
 - [Философия фонда](ru/about.md)
-- [Стек и соглашения](ru/techstack.md)
-- [Дорожная карта](ru/roadmap.md)
   &nbsp;
 - [Проект OpenSchool](ru/openschool.md)
 - [Проект EDem](ru/edem.md)
