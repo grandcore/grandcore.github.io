@@ -2,10 +2,9 @@
 
 - [Самое главное](ru/)
 - [Философия фонда](ru/about.md)
+- [Присоединиться к нам](ru/comanda.md)
   &nbsp;
 - [Проект OpenSchool](ru/openschool.md)
 - [Проект EDem](ru/edem.md)
 - [Проект платформы фонда](ru/grandcore.md)
   &nbsp;
-- [Присоединиться к нам](ru/comanda.md)
-- [Стать спонсором](https://boosty.to/grandcore)
